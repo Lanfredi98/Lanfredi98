@@ -32,7 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matiaslanfredi&show_icons=true&locale=en&layout=compact" alt="lanfredi98" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lanfredi98&show_icons=true&locale=en" alt="lanfredi98" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matiaslanfredi&show_icons=true&locale=en" alt="matiaslanfredi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lanfredi98&" alt="lanfredi98" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matiaslanfredi&" alt="matiaslanfredi" /></p>
 
