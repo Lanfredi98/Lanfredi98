@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently studying on **CoderHouse**
 
-- 🌱 I’m currently learning **Full Stactk Tools and UX/UI**
+- 🌱 I’m currently learning **Full Stack Tools and UX/UI**
 
 - 💬 Ask me about **HTML, CSS , SCSS**
 
