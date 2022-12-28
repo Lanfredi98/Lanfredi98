@@ -7,14 +7,14 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=matiaslanfredi&label=Profile%20views&color=0e75b6&style=flat" alt="matiaslanfredi" /> </p>
 
 <p align="center"> <a href="https://twitter.com/lanfredi__" target="blank"><img src="https://img.shields.io/twitter/follow/lanfredi__?logo=twitter&style=for-the-badge" alt="lanfredi__" /></a> </p> 
-<div align="center" style="list-style:none">
- - 📚 I’m currently studying on **CoderHouse,OpenBootCamp and Udemy
+<div align="center" list-style:"none">
+ - 📚 I’m currently studying on **CoderHouse,OpenBootCamp and Udemy**
 
-- 🌱 I’m currently learning **Frontend's Frameworks
+- 🌱 I’m currently learning **Frontend's Frameworks**
 
-- 💬 Ask me about **HTML, CSS, SCSS, JS
+- 💬 Ask me about **HTML, CSS, SCSS, JS**
 
-- 📫 How to reach me **matiaslanfredia@gmail.com
+- 📫 How to reach me **matiaslanfredia@gmail.com*
 
 - ⚡ Fun fact **i am funny... i guess 🤔**
 </div>
