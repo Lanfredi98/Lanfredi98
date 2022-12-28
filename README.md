@@ -10,13 +10,13 @@
 <div align="center" list-style:"none">
  - 📚 I’m currently studying on <b>CoderHouse,OpenBootCamp and Udemy</b>
 
-- 🌱 I’m currently learning **Frontend's Frameworks**
+- 🌱 I’m currently learning <b>Frontend's Frameworks<b>
 
-- 💬 Ask me about **HTML, CSS, SCSS, JS**
+- 💬 Ask me about <b>HTML, CSS, SCSS, JS<b>
 
-- 📫 How to reach me **matiaslanfredia@gmail.com*
+- 📫 How to reach me <b>matiaslanfredia@gmail.com<b>
 
-- ⚡ Fun fact **i am funny... i guess 🤔**
+- ⚡ Fun fact <b>i am funny... i guess 🤔<b>
 </div>
 
 <h3 align="center">Connect with me:</h3>
