@@ -33,6 +33,6 @@
 <h3 align="center">Support:</h3>
 <p align="center" ><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/matiaslanfredi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/matiaslanfredi" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matiaslanfredi&show_icons=true&locale=en&layout=compact" alt="matiaslanfredi" /></p>
+<p><img align="center" margin="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=matiaslanfredi&show_icons=true&locale=en&layout=compact" alt="matiaslanfredi" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matiaslanfredi&show_icons=true&locale=en" alt="matiaslanfredi" /></p>
