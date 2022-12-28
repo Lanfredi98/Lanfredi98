@@ -8,7 +8,7 @@
 
 <p align="center"> <a href="https://twitter.com/lanfredi__" target="blank"><img src="https://img.shields.io/twitter/follow/lanfredi__?logo=twitter&style=for-the-badge" alt="lanfredi__" /></a> </p> 
 <div align="center" list-style:"none">
- - 📚 I’m currently studying on **CoderHouse,OpenBootCamp and Udemy**
+ - 📚 I’m currently studying on <b>CoderHouse,OpenBootCamp and Udemy</b>
 
 - 🌱 I’m currently learning **Frontend's Frameworks**
 
