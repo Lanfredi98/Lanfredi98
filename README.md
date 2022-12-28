@@ -1,4 +1,7 @@
-![MasterHead](https://propulsive.in/assets/img/service-icon/service-dtls.jpg)
+
+<div align="center" style="margin:auto">
+<img align="center"  src="https://propulsive.in/assets/img/service-icon/service-dtls.jpg">
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Matias Lanfredi, call me Mati 🤞</h1>
