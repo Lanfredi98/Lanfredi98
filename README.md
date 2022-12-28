@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **matiaslanfredia@gmail.com
 
-- ⚡ Fun fact **i am funny... i guess 🤔
+- ⚡ Fun fact **i am funny... i guess 🤔**
 </div>
 
 <h3 align="center">Connect with me:</h3>
